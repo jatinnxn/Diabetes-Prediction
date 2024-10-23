@@ -1,6 +1,6 @@
 # Diabetes Prediction Using Machine Learning
 
-This project demonstrates how to build a machine learning model to predict diabetes using the Pima Indians Diabetes Database. The model is trained using a Decision Tree classifier and can be used to make predictions about whether a patient is likely to have diabetes based on various medical factors.
+This project demonstrates how to build a machine learning model to predict diabetes using Diabetes Database. The model is trained using a Decision Tree classifier and can be used to make predictions about whether a patient is likely to have diabetes based on various medical factors.
 
 ## Project Structure
 
