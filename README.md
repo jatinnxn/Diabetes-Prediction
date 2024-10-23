@@ -51,7 +51,7 @@ bmi = 30.1
 diabetes_pedigree = 0.627
 age = 47
 
-# Make predictions based on input
+### Make predictions based on input
 predicted_diabetes = decision_tree.predict([[pregnancies, glucose, blood_pressure, skin_thickness, insulin, bmi, diabetes_pedigree, age]])
 
 
